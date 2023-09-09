@@ -33,7 +33,7 @@ Additionally, you will need the following Visual Studio Code extensions:
 3. Run the JavaFX application using Gradle:
 
    ```bash
-   ./gradlew run
+   gradle run
    ```
 
 This will launch your JavaFX application in Visual Studio Code.
