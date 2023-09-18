@@ -38,5 +38,4 @@ tasks.named<Test>("test") {
 javafx {
     version = "17"
     modules("javafx.controls", "javafx.fxml")
-    sdk = "/Users/junkaiji/JavaResources/javafx-sdk-17.0.8"
 }
